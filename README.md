@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bigdog156
 - 👀 I’m interested in mobile app and backend with Golang because Go is realy fast.
-- 🌱 I’m currently learning mobile app with flutter and swift ui in IOS. I 've been a mobile app developer for over two years
+- 🌱 I’m currently learning mobile app with Flutter and Swift UI in IOS. I 've been a mobile app developer for over two years
 - 📫 How to reach me 
     Email: 16521516@gm.uit.edu.vn
 
