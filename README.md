@@ -8,8 +8,7 @@ I've been learning to code for 5 years Now, I am Mobile Developer and now, i foc
 
 * 🌍  I'm based in VietNameses
 * ✉️  You can contact me at [16521516@gm.uit.edu.vn](mailto:16521516@gm.uit.edu.vn)
-* 🚀  I'm currently working on [Realcoin VN](http://realcoin.vn)
-* 🧠  I'm learning Flutter, IOS with Swift UI and Blockchain Technology
+* 🧠  I'm learning Flutter, IOS with Swift UI
 * ⚡  If you want to work with me, please contact me via email
 
 <a href="https://www.twitter.com/LeThachLamm" target="_blank" rel="noreferrer"><img
