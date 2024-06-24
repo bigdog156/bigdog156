@@ -6,7 +6,7 @@ Mobile Developer
 
 I've been learning to code for 5 years Now, I am Mobile Developer and now, i focus work with Flutter Framwork
 
-* 🌍  I'm based in VietNameses
+* 🌍  I'm based in VietNam
 * ✉️  You can contact me at [16521516@gm.uit.edu.vn](mailto:16521516@gm.uit.edu.vn)
 * 🧠  I'm learning Flutter, IOS with Swift UI
 * ⚡  If you want to work with me, please contact me via email
